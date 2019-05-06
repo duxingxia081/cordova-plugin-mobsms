@@ -1,7 +1,7 @@
 # cordova-plugin-mobsms
 一款免费发送短信的cordova插件。官网只提供原生sdk：http://mob.com/product/sms  
 原插件地址：https://github.com/menglol/cordova-mobsms  我优化了了android代码并做了测试，ios代码未做测试，我看不懂objective-c，请会的大神调试一下
-
+cordova plugin add https://github.com/duxingxia081/cordova-plugin-mobsms.git
 # 在ionic项目中使用
 ``` html
 <ion-content>
